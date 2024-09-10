@@ -28,7 +28,7 @@ A simple web application that allows users to convert units between meters and f
 
    ```bash
    git clone https://github.com/Creative-mindset21/unit-conversion.git
-   cd unit-conversion-website
+   cd unit-conversion
    ```
 
 2. Open `index.html` in your web browser.
